@@ -10,10 +10,12 @@ title: Sucrense
 	<div class="p-2 mt-5">
 
 	</div>
+	
+	<!--
 	<div class="p-2 mt-5">
 			<img src="{{ '/assets/images/sucre.png' | relative_url }}" class="img-fluid logo-isotipo" alt="isologo">
 	</div>
-
+	-->
 	<div class="p-2 mt-4">
 			<img src="{{ '/assets/images/titulo.png' | relative_url }}" class="img-fluid logo-isotipo" alt="isologo">
 	</div>
